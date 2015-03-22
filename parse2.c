@@ -3,6 +3,7 @@
 *Fileparser part1: a concurrent file parser implemented with pthread library
 *and count the unique ip addresses
 *take the directory name as argument
+* please compile both parse2.c and strmap.c to run the program
 */
 
 #include <stdio.h>
